@@ -30,10 +30,9 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
+
 
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarthak395&show_icons=true&locale=en&layout=compact" alt="sarthak395" /></p>
-  ![Sarthak's github stats](https://github-readme-stats.vercel.app/api?username=sarthak395&show_icons=true&hide_border=true)
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sarthak395&show_icons=true&hide_border=true" alt="sarthak395" /></p>
 
-</p>
 
